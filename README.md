@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/simonsplash.jpg" alt="Splash" height="500">
+    <img src="images/drumkitsplash.jpg" alt="Splash" height="500">
 </div>
 <div align="center">
 <h3 align="center">Drum 🥁 Kit</h3>
